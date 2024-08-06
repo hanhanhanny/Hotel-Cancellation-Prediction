@@ -1,4 +1,4 @@
-# Submission 2: Machine Learning Pipeline - Hotel Cancellation Prediction
+# Submission 2: Machine Learning Operations - Hotel Cancellation Prediction
 Nama: Hanny
 
 Username dicoding: hanhanhanny
